@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ad7f81febf63c19f50717ca01558f729",
+  "assets/AssetManifest.json": "e6db5a17c57c4f148fa0c6b6d30c9bb7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/lib/assets/icons/github.png": "d3c974f05804e0b1e6eb7ff2564944e8",
@@ -12,14 +12,16 @@ const RESOURCES = {
 "assets/lib/assets/images/icon_pokedex.png": "f66517e913ed5a17616c1fef1bfdb829",
 "assets/lib/assets/images/mobx.png": "0b8a0544783c35529e6ef276e355af9d",
 "assets/lib/assets/images/profilepic.jpg": "e41a7ac85c55f7fc7eb67efd4bc7b704",
+"assets/lib/assets/images/switch.png": "8de1e312a143be9486adc61107b96800",
+"assets/lib/assets/images/switchSmall.png": "cd29a49e1dd0f23c9c0435a8f0128735",
 "assets/NOTICES": "296dc33769664dfeda7a7b78ca85facb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "ca57c478f9869fe3619ea4c77e16d6cd",
 "icons/Icon-192.png": "b5c5a441f099485c22a64677226d3d10",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d8018b8e8c2406b0e813533119f07335",
-"/": "d8018b8e8c2406b0e813533119f07335",
-"main.dart.js": "b5bb3a7d9c39cdc3036703e23838916d",
+"index.html": "ebaaec95397f198f32f3ae39c34dce6c",
+"/": "ebaaec95397f198f32f3ae39c34dce6c",
+"main.dart.js": "3bab804b65770fa8cde0fed01b2fcd38",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "version.json": "80d482d3d414256278300a45119fae19"
 };
